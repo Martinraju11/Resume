@@ -1,0 +1,117 @@
+img{
+	float:left;
+}
+.name{
+	padding-left:100px;
+}
+.hr{
+	width:600px;
+	margin-left:0px;
+}
+.list1,li{
+	list-style:none;
+	display:inline;
+	margin-left:20px;
+}
+.box{
+	background-color:black;
+	border:1px solid black;
+	width:900px;
+}
+.hello{
+	color:darkgrey;
+	text-align:center;
+	padding-top:30px;
+}
+.ui{
+	color:white;
+	text-align:center;
+}
+.place{
+	color:darkgrey;
+	text-align:center;
+}
+.resume{
+	text-align:center;
+	border:1px solid white;
+	color:lightgrey;
+	width:200px;
+	margin-left:350px;
+	margin-bottom:50px;
+	
+}
+.skill{
+	padding-left:30px;
+}
+.list2,li{
+	
+	padding-right:80px;
+}
+.education{
+	padding-left:40px;
+}
+.ug{
+	float:left;
+	border-left:1px solid darkgrey;
+	padding-left:10px;
+}
+.aside1{
+	float:right;
+	border: 1px solid grey;
+	width:80px;
+	text-align:center;
+	padding:50px;
+	background-color:darkgrey;
+	margin-right:100px;
+}
+.hsc{
+	float:left;
+	border-left:1px solid darkgrey;
+	padding-left:10px;
+}
+.aside2{
+	float:right;
+	border: 1px solid grey;
+	width:80px;
+	text-align:center;
+	padding:50px;
+	background-color:darkgrey;
+	margin-right:100px;
+}
+.sslc{
+	float:left;
+	border-left:1px solid darkgrey;
+	padding-left:10px;
+}
+.aside3{
+	float:right;
+	border: 1px solid grey;
+	width:80px;
+	text-align:center;
+	padding:50px;
+	background-color:darkgrey;
+	margin-right:100px;
+}
+.project{
+	padding-left:30px;
+}
+.project1
+{
+	border-left:1px solid darkgrey;
+	padding-left:10px;
+}
+.project2
+{
+	border-left:1px solid darkgrey;
+	padding-left:10px;
+}
+.project3
+{
+	border-left:1px solid darkgrey;
+	padding-left:10px;
+}
+
+object{
+	padding-right:30px;
+}
+	
